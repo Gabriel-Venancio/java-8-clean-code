@@ -16,7 +16,7 @@
 
 ## Aluno :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/63819323?v=4" width=115><br><sub>Gabriel Rolim Venancio da Silva</sub>](https://github.com/Gabriel-Venancio) |
+[<img src="https://avatars.githubusercontent.com/u/63819323?v=4" width=115><br><sub>Gabriel Rolim Venancio da Silva</sub>](https://github.com/Gabriel-Venancio) 
 
 
 
